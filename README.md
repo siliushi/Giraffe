@@ -4,7 +4,7 @@ Giraffe是对socket.io进行了封装，方便用户的使用。支持AMD和CMD�
 # Install    
 + in node.js environment    
 ```    
-npm install giraffe    
+npm install socket-giraffe    
 ```    
 + in your html, you just do like this        
 ```    
