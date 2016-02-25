@@ -1,0 +1,28 @@
+{
+    "name": "giraffe",
+    "version": "0.0.1",
+    "description": "package of socket.io",
+    "repository": {
+        "type": "git",
+        "url": "https://baixuexiyang@github.com/baixuexiyang/Giraffe.git"
+    },
+    "author": {
+        "name": "keven",
+        "email": "ganzwen@gmail.com"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "files": ["giraffe.min.js"],
+    "keywords": ["socket", "socket.io", "socketio", "giraffe", "javascript", "js"],
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        
+    },
+    "license": "ISC"
+}
